@@ -1,1 +1,2 @@
-# Rock-Paper-Scissor /n A simple rock-paper-scissor game web page using html, css, javascript
+# Rock-Paper-Scissor 
+A simple rock-paper-scissor game web page using html, css, javascript
